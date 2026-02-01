@@ -1,2 +1,3 @@
-# serverless-content-platform
-Serverless paid content platform with Supabase and Flutterwave
+# Serverless Content Platform
+
+This is the starter project for the serverless content platform.
